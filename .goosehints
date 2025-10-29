@@ -1,0 +1,7 @@
+Always use the `connectors-spec` tool for connectors projects.
+
+Always use `ApolloDocsSearch` and `ApolloDocsRead` to understand graphql schema composition and mapping approaches.
+
+Once you have called rover dev once you do not need to call it a second time, your schema changes will hot reload.
+
+Do not attempt to modify default ports if a port is in use.
